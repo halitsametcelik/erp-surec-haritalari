@@ -1,0 +1,5 @@
+# Excel açıkken oluşan geçici kilit dosyaları
+~$*
+*.tmp
+.DS_Store
+Thumbs.db
